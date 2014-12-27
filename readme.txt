@@ -4,3 +4,5 @@ Git  has a mutable index called stage.
 Git tracks change of files.
 Hello world!
 wish you were here!!
+stay hungry,stay foolish
+
